@@ -139,6 +139,7 @@ Language-specific experts with deep framework knowledge.
 - [**dotnet-core-expert**](categories/02-language-specialists/dotnet-core-expert.toml) - .NET 8 cross-platform specialist
 - [**dotnet-framework-4.8-expert**](categories/02-language-specialists/dotnet-framework-4.8-expert.toml) - .NET Framework legacy enterprise specialist
 - [**elixir-expert**](categories/02-language-specialists/elixir-expert.toml) - Elixir and OTP fault-tolerant systems expert
+- [**erlang-expert**](categories/02-language-specialists/erlang-expert.toml) - Erlang/OTP and rebar3 engineering expert
 - [**flutter-expert**](categories/02-language-specialists/flutter-expert.toml) - Flutter 3+ cross-platform mobile expert
 - [**golang-pro**](categories/02-language-specialists/golang-pro.toml) - Go concurrency specialist
 - [**java-architect**](categories/02-language-specialists/java-architect.toml) - Enterprise Java expert

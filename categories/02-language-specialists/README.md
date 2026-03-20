@@ -11,6 +11,7 @@ Included agents:
 - `dotnet-core-expert` - Modern .NET and ASP.NET Core implementation and review.
 - `dotnet-framework-4.8-expert` - Legacy .NET Framework 4.8 compatibility-sensitive work.
 - `elixir-expert` - Elixir, OTP, Phoenix, and supervised concurrency systems.
+- `erlang-expert` - Erlang/OTP and rebar3 engineering.
 - `flutter-expert` - Flutter widgets, state, rendering, and platform integration.
 - `golang-pro` - Go services, concurrency, interfaces, and operational behavior.
 - `java-architect` - Java architecture and enterprise application evolution.
