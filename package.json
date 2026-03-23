@@ -1,0 +1,31 @@
+{
+  "name": "awesome-codex-subagents-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "homepage": "https://bear2u.github.io/awesome-codex-subagents/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bear2u/awesome-codex-subagents.git"
+  },
+  "scripts": {
+    "dev": "npm run build:data && vite",
+    "build:data": "node scripts/build-agents-data.mjs",
+    "generate:translations": "node scripts/generate-ko-translations.mjs",
+    "build": "npm run build:data && tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^12.9.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "smol-toml": "^1.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.3",
+    "@types/react-dom": "^19.1.3",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "^5.8.3",
+    "vite": "^7.1.0"
+  }
+}
