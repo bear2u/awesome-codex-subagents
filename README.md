@@ -21,7 +21,6 @@
 
 <br />
 
-
 <div align="center">
     <strong>More awesome collections for developers</strong>
     <br />
